@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: votre-utilisateur/projet-docker:latest
+          tags: tomadelon/projet-docker:latest
